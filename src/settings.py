@@ -17,7 +17,7 @@ PROJECT_NAME: str = "CottonWeedDet3"
 PROJECT_NAME_FULL: str = (
     "CottonWeedDet3: A 3-Class Weed Detection Dataset for Cotton Cropping Systems"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##

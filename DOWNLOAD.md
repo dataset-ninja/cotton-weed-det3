@@ -1,6 +1,6 @@
 Dataset **CottonWeedDet3** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/E/N/yS/4eGCblV7YG1mp1l1SIXxyNBfeMStjV5Vzbu8wfNHepL9AEPS3Psla7NawhAALO4fNYzhFshIxG5lxtmXfEVBpEKU4FWpSfoi9d4CDuwBKndUCov2ZrsH0CyHtzfN.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
